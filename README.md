@@ -23,6 +23,6 @@
 2. Open the index.html file in your web browser.
 
 Credits
--> Sounds obtained from FreeSound.
--> Font used: Press Start 2P from Google Fonts.
--> jQuery library from jQuery CDN.
+- Sounds obtained from FreeSound.
+- Font used: Press Start 2P from Google Fonts.
+- jQuery library from jQuery CDN.

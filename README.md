@@ -13,16 +13,16 @@
 - You can restart the game by pressing any key again.
 
 ## Technologies Used
-HTML: Structure of the webpage;
-CSS: Styling the elements of the game;
-JavaScript: Logic and interactivity of the game;
-jQuery: Library for simplifying DOM manipulation and event handling.
+- HTML: Structure of the webpage;
+- CSS: Styling the elements of the game;
+- JavaScript: Logic and interactivity of the game;
+- jQuery: Library for simplifying DOM manipulation and event handling.
 
 ## Setup Instructions
 1. Clone the repository or download the project files.
 2. Open the index.html file in your web browser.
 
 Credits
-Sounds obtained from FreeSound.
-Font used: Press Start 2P from Google Fonts.
-jQuery library from jQuery CDN.
+-> Sounds obtained from FreeSound.
+-> Font used: Press Start 2P from Google Fonts.
+-> jQuery library from jQuery CDN.

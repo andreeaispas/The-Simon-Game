@@ -16,7 +16,8 @@
 - HTML: Structure of the webpage;
 - CSS: Styling the elements of the game;
 - JavaScript: Logic and interactivity of the game;
-- jQuery: Library for simplifying DOM manipulation and event handling.
+- jQuery: Library for simplifying DOM manipulation and event handling;
+- DOM.
 
 ## Setup Instructions
 1. Clone the repository or download the project files.
